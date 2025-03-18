@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.conversor","l":"CurrencyApiClient"},{"p":"com.mycompany.conversor","l":"CurrencyConverter"},{"p":"com.mycompany.conversor","l":"Main"}];updateSearchResults();

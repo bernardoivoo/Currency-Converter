@@ -1,0 +1,54 @@
+@options
+@packages
+-classpath
+'C:/Users/berna/.m2/repository/com/squareup/okhttp3/okhttp/4.11.0/okhttp-4.11.0.jar;C:/Users/berna/.m2/repository/com/squareup/okio/okio/3.2.0/okio-3.2.0.jar;C:/Users/berna/.m2/repository/com/squareup/okio/okio-jvm/3.2.0/okio-jvm-3.2.0.jar;C:/Users/berna/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib/1.6.20/kotlin-stdlib-1.6.20.jar;C:/Users/berna/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.20/kotlin-stdlib-common-1.6.20.jar;C:/Users/berna/.m2/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar;C:/Users/berna/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.6.20/kotlin-stdlib-jdk8-1.6.20.jar;C:/Users/berna/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.6.20/kotlin-stdlib-jdk7-1.6.20.jar;C:/Users/berna/.m2/repository/org/json/json/20230227/json-20230227.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/berna/Documents/NetBeansProjects/conversor/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/berna/Documents/NetBeansProjects/conversor/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CurrencyConverter 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CurrencyConverter 1.0-SNAPSHOT API'
+com.mycompany.conversor
+C:\Users\berna\.m2\repository\com\squareup\okhttp3\okhttp\4.11.0\okhttp-4.11.0.jar = 1737755878837
+C:\Users\berna\.m2\repository\com\squareup\okio\okio\3.2.0\okio-3.2.0.jar = 1737755878939
+C:\Users\berna\.m2\repository\com\squareup\okio\okio-jvm\3.2.0\okio-jvm-3.2.0.jar = 1737755879148
+C:\Users\berna\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\1.6.20\kotlin-stdlib-1.6.20.jar = 1737755879148
+C:\Users\berna\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-common\1.6.20\kotlin-stdlib-common-1.6.20.jar = 1737755879059
+C:\Users\berna\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar = 1737755878929
+C:\Users\berna\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.6.20\kotlin-stdlib-jdk8-1.6.20.jar = 1737755878984
+C:\Users\berna\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.6.20\kotlin-stdlib-jdk7-1.6.20.jar = 1737755878983
+C:\Users\berna\.m2\repository\org\json\json\20230227\json-20230227.jar = 1737755879079
+C:\Users\berna\Documents\NetBeansProjects\conversor\src\main\java = 1737755251103
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\allclasses-index.html = 1742308055925
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\allpackages-index.html = 1742308055929
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\copy.svg = 1742308055972
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\element-list = 1742308055851
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\help-doc.html = 1742308055964
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\index-all.html = 1742308055951
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\index.html = 1742308055957
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\link.svg = 1742308055974
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\member-search-index.js = 1742308055937
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\module-search-index.js = 1742308055931
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\overview-tree.html = 1742308055908
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\package-search-index.js = 1742308055932
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\script.js = 1742308055969
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\search-page.js = 1742308055981
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\search.html = 1742308055955
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\search.js = 1742308055978
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\stylesheet.css = 1742308055967
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\tag-search-index.js = 1742308055938
+C:\Users\berna\Documents\NetBeansProjects\conversor\target\site\apidocs\type-search-index.js = 1742308055933
